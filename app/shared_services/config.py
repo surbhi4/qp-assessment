@@ -2,6 +2,6 @@ dbconfig = {
     "host":"localhost",
     "port":"3306",
     "username":"root",
-    "password":"Dikshant01@",
+    "password":"########",
     "database":"full-stack-ecommerce"
 }
